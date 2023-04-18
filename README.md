@@ -9,11 +9,11 @@ A standalone installer for WsReborn from memoryhackers.net, you can use this ins
 Hotkeys:
 Menu : Left Shift - F1
 
-*How to use*
-*Run UI Loader
-*Select WSReborn and load
-*Enter game and wait ur champion
-*Press enter key when game loaded.
+* How to use *
+* Run WsReborn installer
+* Select WSReborn and load
+* Enter game and wait ur champion
+* Press enter key when game loaded.
 
 *Nasıl Kullanılır*
 *UI Loaderi Çalıştırın
