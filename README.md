@@ -2,8 +2,8 @@
 A standalone installer for WsReborn from memoryhackers.net, you can use this instead of their loader, also works from their API and autoupdates itself
 
 
-Password is mh
-
+#Password is mh
+#Turn off antivirus
 
 Hotkeys:
 Menu : Left Shift - F1
